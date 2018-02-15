@@ -1,0 +1,430 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 216.00 216.00"
+   version="1.1"
+   id="svg11046"
+   sodipodi:docname="ejemplos.svg"
+   inkscape:export-filename="/home/matias/clases-aprendizaje-automático/recursos/00_ejemplos.png"
+   inkscape:export-xdpi="266"
+   inkscape:export-ydpi="266"
+   inkscape:version="0.92.2 5c3e80d, 2017-08-06">
+  <metadata
+     id="metadata11050">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1362"
+     inkscape:window-height="722"
+     id="namedview11048"
+     showgrid="false"
+     inkscape:zoom="1.0925926"
+     inkscape:cx="-7.1986076"
+     inkscape:cy="108"
+     inkscape:window-x="2"
+     inkscape:window-y="44"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg11046" />
+  <defs
+     id="defs10912">
+    <style
+       type="text/css"
+       id="style10910"><![CDATA[
+    line, polyline, path, rect, circle {
+      fill: none;
+      stroke: #000000;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      stroke-miterlimit: 10.00;
+    }
+  ]]></style>
+  </defs>
+  <rect
+     width="100%"
+     height="100%"
+     style="stroke: none; fill: #FFFFFF;"
+     id="rect10914" />
+  <rect
+     x="0.00"
+     y="0.00"
+     width="216.00"
+     height="216.00"
+     style="stroke-width: 1.07; stroke: #FFFFFF; fill: #FFFFFF;"
+     id="rect10916" />
+  <defs
+     id="defs10921">
+    <clipPath
+       id="cpMjkuMDc4MnwyMTAuNTIxfDE4My4wNTl8NDUuNDM2Ng==">
+      <rect
+         x="29.08"
+         y="45.44"
+         width="181.44"
+         height="137.62"
+         id="rect10918" />
+    </clipPath>
+  </defs>
+  <rect
+     x="29.08"
+     y="45.44"
+     width="181.44"
+     height="137.62"
+     style="stroke-width: 1.07; stroke: none; fill: #EBEBEB;"
+     clip-path="url(#cpMjkuMDc4MnwyMTAuNTIxfDE4My4wNTl8NDUuNDM2Ng==)"
+     id="rect10923" />
+  <polyline
+     points="29.08,155.95 210.52,155.95 "
+     style="stroke-width: 0.53; stroke: #FFFFFF; stroke-linecap: butt;"
+     clip-path="url(#cpMjkuMDc4MnwyMTAuNTIxfDE4My4wNTl8NDUuNDM2Ng==)"
+     id="polyline10925" />
+  <polyline
+     points="29.08,114.25 210.52,114.25 "
+     style="stroke-width: 0.53; stroke: #FFFFFF; stroke-linecap: butt;"
+     clip-path="url(#cpMjkuMDc4MnwyMTAuNTIxfDE4My4wNTl8NDUuNDM2Ng==)"
+     id="polyline10927" />
+  <polyline
+     points="29.08,72.54 210.52,72.54 "
+     style="stroke-width: 0.53; stroke: #FFFFFF; stroke-linecap: butt;"
+     clip-path="url(#cpMjkuMDc4MnwyMTAuNTIxfDE4My4wNTl8NDUuNDM2Ng==)"
+     id="polyline10929" />
+  <polyline
+     points="60.89,183.06 60.89,45.44 "
+     style="stroke-width: 0.53; stroke: #FFFFFF; stroke-linecap: butt;"
+     clip-path="url(#cpMjkuMDc4MnwyMTAuNTIxfDE4My4wNTl8NDUuNDM2Ng==)"
+     id="polyline10931" />
+  <polyline
+     points="108.02,183.06 108.02,45.44 "
+     style="stroke-width: 0.53; stroke: #FFFFFF; stroke-linecap: butt;"
+     clip-path="url(#cpMjkuMDc4MnwyMTAuNTIxfDE4My4wNTl8NDUuNDM2Ng==)"
+     id="polyline10933" />
+  <polyline
+     points="155.15,183.06 155.15,45.44 "
+     style="stroke-width: 0.53; stroke: #FFFFFF; stroke-linecap: butt;"
+     clip-path="url(#cpMjkuMDc4MnwyMTAuNTIxfDE4My4wNTl8NDUuNDM2Ng==)"
+     id="polyline10935" />
+  <polyline
+     points="202.27,183.06 202.27,45.44 "
+     style="stroke-width: 0.53; stroke: #FFFFFF; stroke-linecap: butt;"
+     clip-path="url(#cpMjkuMDc4MnwyMTAuNTIxfDE4My4wNTl8NDUuNDM2Ng==)"
+     id="polyline10937" />
+  <polyline
+     points="29.08,176.80 210.52,176.80 "
+     style="stroke-width: 1.07; stroke: #FFFFFF; stroke-linecap: butt;"
+     clip-path="url(#cpMjkuMDc4MnwyMTAuNTIxfDE4My4wNTl8NDUuNDM2Ng==)"
+     id="polyline10939" />
+  <polyline
+     points="29.08,135.10 210.52,135.10 "
+     style="stroke-width: 1.07; stroke: #FFFFFF; stroke-linecap: butt;"
+     clip-path="url(#cpMjkuMDc4MnwyMTAuNTIxfDE4My4wNTl8NDUuNDM2Ng==)"
+     id="polyline10941" />
+  <polyline
+     points="29.08,93.40 210.52,93.40 "
+     style="stroke-width: 1.07; stroke: #FFFFFF; stroke-linecap: butt;"
+     clip-path="url(#cpMjkuMDc4MnwyMTAuNTIxfDE4My4wNTl8NDUuNDM2Ng==)"
+     id="polyline10943" />
+  <polyline
+     points="29.08,51.69 210.52,51.69 "
+     style="stroke-width: 1.07; stroke: #FFFFFF; stroke-linecap: butt;"
+     clip-path="url(#cpMjkuMDc4MnwyMTAuNTIxfDE4My4wNTl8NDUuNDM2Ng==)"
+     id="polyline10945" />
+  <polyline
+     points="37.33,183.06 37.33,45.44 "
+     style="stroke-width: 1.07; stroke: #FFFFFF; stroke-linecap: butt;"
+     clip-path="url(#cpMjkuMDc4MnwyMTAuNTIxfDE4My4wNTl8NDUuNDM2Ng==)"
+     id="polyline10947" />
+  <polyline
+     points="84.45,183.06 84.45,45.44 "
+     style="stroke-width: 1.07; stroke: #FFFFFF; stroke-linecap: butt;"
+     clip-path="url(#cpMjkuMDc4MnwyMTAuNTIxfDE4My4wNTl8NDUuNDM2Ng==)"
+     id="polyline10949" />
+  <polyline
+     points="131.58,183.06 131.58,45.44 "
+     style="stroke-width: 1.07; stroke: #FFFFFF; stroke-linecap: butt;"
+     clip-path="url(#cpMjkuMDc4MnwyMTAuNTIxfDE4My4wNTl8NDUuNDM2Ng==)"
+     id="polyline10951" />
+  <polyline
+     points="178.71,183.06 178.71,45.44 "
+     style="stroke-width: 1.07; stroke: #FFFFFF; stroke-linecap: butt;"
+     clip-path="url(#cpMjkuMDc4MnwyMTAuNTIxfDE4My4wNTl8NDUuNDM2Ng==)"
+     id="polyline10953" />
+  <circle
+     cx="70.32"
+     cy="168.46"
+     r="1.95pt"
+     style="stroke-width: 0.71; stroke: #619CFF; stroke-opacity: 0.70; fill: #619CFF; fill-opacity: 0.70;"
+     clip-path="url(#cpMjkuMDc4MnwyMTAuNTIxfDE4My4wNTl8NDUuNDM2Ng==)"
+     id="circle10955" />
+  <circle
+     cx="77.38"
+     cy="160.12"
+     r="1.95pt"
+     style="stroke-width: 0.71; stroke: #619CFF; stroke-opacity: 0.70; fill: #619CFF; fill-opacity: 0.70;"
+     clip-path="url(#cpMjkuMDc4MnwyMTAuNTIxfDE4My4wNTl8NDUuNDM2Ng==)"
+     id="circle10957" />
+  <circle
+     cx="162.21"
+     cy="80.88"
+     r="1.95pt"
+     style="stroke-width: 0.71; stroke: #00BA38; stroke-opacity: 0.70; fill: #00BA38; fill-opacity: 0.70;"
+     clip-path="url(#cpMjkuMDc4MnwyMTAuNTIxfDE4My4wNTl8NDUuNDM2Ng==)"
+     id="circle10959" />
+  <circle
+     cx="166.93"
+     cy="101.74"
+     r="1.95pt"
+     style="stroke-width: 0.71; stroke: #00BA38; stroke-opacity: 0.70; fill: #00BA38; fill-opacity: 0.70;"
+     clip-path="url(#cpMjkuMDc4MnwyMTAuNTIxfDE4My4wNTl8NDUuNDM2Ng==)"
+     id="circle10961" />
+  <defs
+     id="defs10966">
+    <clipPath
+       id="cpMHwyMTZ8MjE2fDA=">
+      <rect
+         x="0.00"
+         y="0.00"
+         width="216.00"
+         height="216.00"
+         id="rect10963" />
+    </clipPath>
+  </defs>
+  <g
+     clip-path="url(#cpMHwyMTZ8MjE2fDA=)"
+     id="g10970">
+    <text
+       x="19.25"
+       y="180.01"
+       style="font-size: 8.80px; fill: #4D4D4D; font-family: Nimbus Sans;"
+       textLength="4.89px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text10968">0</text>
+  </g>
+  <g
+     clip-path="url(#cpMHwyMTZ8MjE2fDA=)"
+     id="g10974">
+    <text
+       x="19.25"
+       y="138.31"
+       style="font-size: 8.80px; fill: #4D4D4D; font-family: Nimbus Sans;"
+       textLength="4.89px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text10972">1</text>
+  </g>
+  <g
+     clip-path="url(#cpMHwyMTZ8MjE2fDA=)"
+     id="g10978">
+    <text
+       x="19.25"
+       y="96.60"
+       style="font-size: 8.80px; fill: #4D4D4D; font-family: Nimbus Sans;"
+       textLength="4.89px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text10976">2</text>
+  </g>
+  <g
+     clip-path="url(#cpMHwyMTZ8MjE2fDA=)"
+     id="g10982">
+    <text
+       x="19.25"
+       y="54.90"
+       style="font-size: 8.80px; fill: #4D4D4D; font-family: Nimbus Sans;"
+       textLength="4.89px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text10980">3</text>
+  </g>
+  <polyline
+     points="26.34,176.80 29.08,176.80 "
+     style="stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;"
+     clip-path="url(#cpMHwyMTZ8MjE2fDA=)"
+     id="polyline10984" />
+  <polyline
+     points="26.34,135.10 29.08,135.10 "
+     style="stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;"
+     clip-path="url(#cpMHwyMTZ8MjE2fDA=)"
+     id="polyline10986" />
+  <polyline
+     points="26.34,93.40 29.08,93.40 "
+     style="stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;"
+     clip-path="url(#cpMHwyMTZ8MjE2fDA=)"
+     id="polyline10988" />
+  <polyline
+     points="26.34,51.69 29.08,51.69 "
+     style="stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;"
+     clip-path="url(#cpMHwyMTZ8MjE2fDA=)"
+     id="polyline10990" />
+  <polyline
+     points="37.33,185.80 37.33,183.06 "
+     style="stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;"
+     clip-path="url(#cpMHwyMTZ8MjE2fDA=)"
+     id="polyline10992" />
+  <polyline
+     points="84.45,185.80 84.45,183.06 "
+     style="stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;"
+     clip-path="url(#cpMHwyMTZ8MjE2fDA=)"
+     id="polyline10994" />
+  <polyline
+     points="131.58,185.80 131.58,183.06 "
+     style="stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;"
+     clip-path="url(#cpMHwyMTZ8MjE2fDA=)"
+     id="polyline10996" />
+  <polyline
+     points="178.71,185.80 178.71,183.06 "
+     style="stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;"
+     clip-path="url(#cpMHwyMTZ8MjE2fDA=)"
+     id="polyline10998" />
+  <g
+     clip-path="url(#cpMHwyMTZ8MjE2fDA=)"
+     id="g11002">
+    <text
+       x="34.88"
+       y="194.41"
+       style="font-size: 8.80px; fill: #4D4D4D; font-family: Nimbus Sans;"
+       textLength="4.89px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text11000">0</text>
+  </g>
+  <g
+     clip-path="url(#cpMHwyMTZ8MjE2fDA=)"
+     id="g11006">
+    <text
+       x="82.01"
+       y="194.41"
+       style="font-size: 8.80px; fill: #4D4D4D; font-family: Nimbus Sans;"
+       textLength="4.89px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text11004">2</text>
+  </g>
+  <g
+     clip-path="url(#cpMHwyMTZ8MjE2fDA=)"
+     id="g11010">
+    <text
+       x="129.13"
+       y="194.41"
+       style="font-size: 8.80px; fill: #4D4D4D; font-family: Nimbus Sans;"
+       textLength="4.89px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text11008">4</text>
+  </g>
+  <g
+     clip-path="url(#cpMHwyMTZ8MjE2fDA=)"
+     id="g11014">
+    <text
+       x="176.26"
+       y="194.41"
+       style="font-size: 8.80px; fill: #4D4D4D; font-family: Nimbus Sans;"
+       textLength="4.89px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text11012">6</text>
+  </g>
+  <g
+     clip-path="url(#cpMHwyMTZ8MjE2fDA=)"
+     id="g11018">
+    <text
+       x="88.92"
+       y="207.90"
+       style="font-size: 11.00px; font-family: Nimbus Sans;"
+       textLength="61.77px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text11016">Petal.Length</text>
+  </g>
+  <g
+     clip-path="url(#cpMHwyMTZ8MjE2fDA=)"
+     id="g11022">
+    <text
+       transform="translate(13.50,142.37) rotate(-90)"
+       style="font-size: 11.00px; font-family: Nimbus Sans;"
+       textLength="56.24px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text11020">Petal.Width</text>
+  </g>
+  <rect
+     x="42.79"
+     y="5.48"
+     width="154.02"
+     height="28.62"
+     style="stroke-width: 1.07; stroke: none; fill: #FFFFFF;"
+     clip-path="url(#cpMHwyMTZ8MjE2fDA=)"
+     id="rect11024" />
+  <g
+     clip-path="url(#cpMHwyMTZ8MjE2fDA=)"
+     id="g11028">
+    <text
+       x="48.46"
+       y="23.80"
+       style="font-size: 11.00px; font-family: Nimbus Sans;"
+       textLength="39.13px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text11026">Species</text>
+  </g>
+  <rect
+     x="91.91"
+     y="11.15"
+     width="17.28"
+     height="17.28"
+     style="stroke-width: 1.07; stroke: #FFFFFF; fill: #F2F2F2;"
+     clip-path="url(#cpMHwyMTZ8MjE2fDA=)"
+     id="rect11030" />
+  <circle
+     cx="100.55"
+     cy="19.79"
+     r="1.95pt"
+     style="stroke-width: 0.71; stroke: #619CFF; stroke-opacity: 0.70; fill: #619CFF; fill-opacity: 0.70;"
+     clip-path="url(#cpMHwyMTZ8MjE2fDA=)"
+     id="circle11032" />
+  <rect
+     x="139.43"
+     y="11.15"
+     width="17.28"
+     height="17.28"
+     style="stroke-width: 1.07; stroke: #FFFFFF; fill: #F2F2F2;"
+     clip-path="url(#cpMHwyMTZ8MjE2fDA=)"
+     id="rect11034" />
+  <circle
+     cx="148.07"
+     cy="19.79"
+     r="1.95pt"
+     style="stroke-width: 0.71; stroke: #00BA38; stroke-opacity: 0.70; fill: #00BA38; fill-opacity: 0.70;"
+     clip-path="url(#cpMHwyMTZ8MjE2fDA=)"
+     id="circle11036" />
+  <g
+     clip-path="url(#cpMHwyMTZ8MjE2fDA=)"
+     id="g11040">
+    <text
+       x="111.35"
+       y="23.00"
+       style="font-size: 8.80px; font-family: Nimbus Sans;"
+       textLength="25.92px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text11038">setosa</text>
+  </g>
+  <g
+     clip-path="url(#cpMHwyMTZ8MjE2fDA=)"
+     id="g11044">
+    <text
+       x="158.87"
+       y="23.00"
+       style="font-size: 8.80px; font-family: Nimbus Sans;"
+       textLength="32.27px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text11042">virginica</text>
+  </g>
+</svg>
